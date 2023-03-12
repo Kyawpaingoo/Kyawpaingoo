@@ -77,3 +77,6 @@ Project Description:
 <li> Live Demo - http://kyawpaingoo.infinityfreeapp.com/gwsc_kpo/ </li>
 <li> Github Repo - https://github.com/Kyawpaingoo/gswc_kpo </li>
 </div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
