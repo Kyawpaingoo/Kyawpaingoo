@@ -21,7 +21,7 @@ const kenvin = {
   role: "Full Stack Software Developer",
   currentFocus: ["React Native", "TypeScript", "DevOps", "Cloud Architecture"],
   education: "MBA in High Tech Entrepreneurship @ HarbourSpace@UTCC Bangkok",
-  workStyle: "Remote Freelancer",
+  workStyle: "Hybrid, Remote Freelancer",
   passion: "Building scalable solutions that solve real-world problems",
   philosophy: "Code. Learn. Create. Repeat. 🔄"
 };
